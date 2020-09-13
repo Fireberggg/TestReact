@@ -1,0 +1,9 @@
+.item-list {
+    flex-basis: 45%;
+    padding: 1.5rem 1rem;
+}
+
+.item-list__element:hover{
+    cursor: pointer;
+    background-color: #ccc;
+}

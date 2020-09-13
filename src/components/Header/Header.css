@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    margin-top: 0.75rem;
+}
+
+.header__list {
+    margin-left: 5rem;
+}
+
+.header__list_item {
+    cursor: pointer;
+}
+
+.header__primary,
+.header__primary:hover {
+    text-decoration: none;
+}
